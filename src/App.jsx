@@ -59,6 +59,8 @@ function Game() {
 
       <p style={{ marginTop: '10px', fontWeight: 'bold' }}>{message}</p>
       <button onClick={resetGame} style={{marginTop: '20px', padding:'10px 20px', backgroundColor: '#008CBA', color: 'white', border: 'none', cursor: 'pointer'}}>Reset Game</button>
+
+      <h2>Nezareeen</h2>
     </div>
   );
 }
